@@ -1,5 +1,4 @@
 #Dewey Schoenfelder
-#1174305
 import torch.nn as nn
 
 class ActorCritic(nn.Module):

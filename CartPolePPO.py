@@ -1,5 +1,4 @@
 #Dewey Schoenfelder
-#1174305
 import sys
 import gymnasium as gym
 import math
