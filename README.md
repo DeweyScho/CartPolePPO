@@ -8,6 +8,8 @@ Files:
 - Network.py — Neural network definition
 - checkpoint/ — Saved models
 
+create checkpoint file
+
 Install with command: 
 pip install gymnasium matplotlib torch numpy
 
