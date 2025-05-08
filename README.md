@@ -8,13 +8,6 @@ Files:
 - Network.py — Neural network definition
 - checkpoint/ — Saved models
 
-Dependencies:
-- Python 3.8+
-- gymnasium
-- matplotlib
-- torch
-- numpy
-
 Install with command: 
 pip install gymnasium matplotlib torch numpy
 
